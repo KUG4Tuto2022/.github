@@ -1,0 +1,6 @@
+# Ignore vim temporary files
+*~
+
+## macOSX
+.DS_Store
+**/.DS_Store
